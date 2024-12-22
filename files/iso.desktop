@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=konsole -e '/bin/zsh -c '\\''~/.local/bin/iso_build ; exec /bin/zsh -i'\\'''
+GenericName[ru_RU]=
+GenericName=
+Icon=/usr/share/icons/iso.png
+MimeType=
+Name[ru_RU]=ISO Сборщик
+Name=ISO Сборщик

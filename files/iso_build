@@ -1,0 +1,6 @@
+#!/bin/bash
+sudo rm -Rf /var/lib/manjaro-tools/buildiso/kde/x86_64/rootfs
+
+#sudo buildiso -f -p gnome -k linux612
+
+sudo buildiso -f -p kde -k linux612
