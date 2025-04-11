@@ -1,0 +1,27 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.46:8880?security=&type=grpc&encryption=none#%F0%9F%94%A5Join+Telegram:@FarahVPN%F0%9F%9F%A3
+vmess://eyJhZGQiOiIxNDEuMTAxLjEyMC40MSIsImFpZCI6IjAiLCJob3N0IjoiMTc0NDAwNzU3OC5zcGVlZC56amd6YS5jY2NwLmZyZWVmbHkucHAudWEiLCJpZCI6IjM4MWNiNmQxLTZhZDQtNDkwOS04NDk0LWI4ZDc4NmNmNzhjZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA1MyIsInBzIjoi8J+UpUpvaW4rVGVsZWdyYW06QEZhcmFoVlBO8J+foyIsInNjeSI6ImF1dG8iLCJzbmkiOiIxNzQ0MDA3NTc4LnNwZWVkLnpqZ3phLmNjY3AuZnJlZWZseS5wcC51YSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@sanjose01.852224.ggff.net:443?security=tls&sni=sanjose01.852224.ggff.net&alpn=http/1.1&fp=chrome&type=ws&path=/T5yZBrY2Qkg2cThJQeJb#%F0%9F%94%A5Join+Telegram:@FarahVPN%F0%9F%9F%A3
+vless://576c81b6-4976-4fe3-b1a9-05a9c302e98e@us10-02.890606.xyz:443?security=tls&sni=us10-02.890606.xyz&alpn=http/1.1&fp=chrome&type=ws&path=/HlAPZV9g9xmyAVVtopw90eoXel&host=us10-02.890606.xyz&encryption=none#%F0%9F%94%A5Join+Telegram:@FarahVPN%F0%9F%9F%A3
+trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@sanjose01.818185.xyz:443?security=tls&sni=sanjose01.818185.xyz&alpn=http/1.1&fp=chrome&type=ws&path=/T5yZBrY2Qkg2cThJQeJb&host=sanjose01.818185.xyz#%F0%9F%94%A5Join+Telegram:@FarahVPN%F0%9F%9F%A3
+vless://576c81b6-4976-4fe3-b1a9-05a9c302e98e@us10-02.890602.xyz:443?security=tls&sni=us10-02.890602.xyz&alpn=http/1.1&fp=chrome&type=ws&path=/HlAPZV9g9xmyAVVtopw90eoXel&host=us10-02.890602.xyz&encryption=none#%F0%9F%94%A5Join+Telegram:@FarahVPN%F0%9F%9F%A3
+vmess://eyJhZGQiOiJzYW5qb3NlMDYuODUyMjI0LmdnZmYubmV0IiwiYWlkIjoiMCIsImhvc3QiOiJzYW5qb3NlMDYuODUyMjI0LmdnZmYubmV0IiwiaWQiOiI4OWMxYWVhNy00ZDBkLTQwMTMtYjY2My0wZjk0YTNlNmJkYmQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvWWZCMjlHWGY0Y1RoSlFlSmIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5SlSm9pbitUZWxlZ3JhbTpARmFyYWhWUE7wn5+jIiwic2N5IjoiYXV0byIsInNuaSI6InNhbmpvc2UwNi44NTIyMjQuZ2dmZi5uZXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJ1czEwLTA4Ljg5MDYwNi54eXoiLCJhaWQiOiIwIiwiaG9zdCI6InVzMTAtMDguODkwNjA2Lnh5eiIsImlkIjoiNTc2YzgxYjYtNDk3Ni00ZmUzLWIxYTktMDVhOWMzMDJlOThlIiwibmV0Ijoid3MiLCJwYXRoIjoiL1NOd05kdW53MjhsVnp0b3B3OTBlb1hlbCIsInBvcnQiOiI4MCIsInBzIjoi8J+UpUpvaW4rVGVsZWdyYW06QEZhcmFoVlBO8J+foyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://576c81b6-4976-4fe3-b1a9-05a9c302e98e@us10-07.890606.xyz:443?security=tls&sni=us10-07.890606.xyz&alpn=http/1.1&fp=chrome&type=ws&path=/HlAPZV9g9xmyAVVtopw90eoXel&host=us10-07.890606.xyz&encryption=none#%F0%9F%94%A5Join+Telegram:@FarahVPN%F0%9F%9F%A3
+vmess://eyJhZGQiOiJ1czEwLTAyLjg5MDYwNi54eXoiLCJhaWQiOiIwIiwiaG9zdCI6InVzMTAtMDIuODkwNjA2Lnh5eiIsImlkIjoiNTc2YzgxYjYtNDk3Ni00ZmUzLWIxYTktMDVhOWMzMDJlOThlIiwibmV0Ijoid3MiLCJwYXRoIjoiL1NOd05kdW53MjhsVnp0b3B3OTBlb1hlbCIsInBvcnQiOiI0NDMiLCJwcyI6IvCflKVKb2luK1RlbGVncmFtOkBGYXJhaFZQTvCfn6MiLCJzY3kiOiJhdXRvIiwic25pIjoidXMxMC0wMi44OTA2MDYueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://576c81b6-4976-4fe3-b1a9-05a9c302e98e@us10-05.890606.xyz:443?security=tls&sni=us10-05.890606.xyz&alpn=http/1.1&fp=chrome&type=ws&path=/HlAPZV9g9xmyAVVtopw90eoXel&host=us10-05.890606.xyz&encryption=none#%F0%9F%94%A5Join+Telegram:@FarahVPN%F0%9F%9F%A3
+vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.153.2:80?security=&type=ws&path=/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed%3D2560&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru:0&encryption=none#%F0%9F%94%A5Join+Telegram:@FarahVPN%F0%9F%9F%A3
+vless://99333609-167f-4750-ab63-34cfa27c723a@172.67.204.84:2053?security=tls&sni=all18.kikforwindows.com&type=ws&path=/containers/de&host=all18.kikforwindows.com&encryption=none#%F0%9F%94%A5Join+Telegram:@FarahVPN%F0%9F%9F%A3
+
+
+//profile-title: base64:4q2QIFBhcmFkaXNlIFZQTg==
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//last update on: 2025-04-12 01:21:07
+
+warp://162.159.192.79:3476?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#Cloud-#1&&detour=warp://162.159.195.203:8319?ifp=10-20&ifps=20-60&ifpd=5-10#Cloud-#2
+
+warp://188.114.96.172:1180/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://188.114.96.172:1180/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#Anon-WoW-IPv4🇩🇪-1
+
+warp://162.159.192.139:934/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://162.159.192.139:934/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#Anon-WoW-IPv4🇩🇪-2
+
+warp://[2606:4700:d0::2ebd:1edb:d65a:14b9]:1387/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://[2606:4700:d0::2ebd:1edb:d65a:14b9]:1387/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#Anon-WoW-IPv6🇩🇪-3
