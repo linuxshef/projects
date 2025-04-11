@@ -1,3 +1,0 @@
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@sg.liangyuandiancloud.com:443?security=tls&type=tcp#@Xen2ray%F0%9F%92%99%20Tokyo%20JP
-trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@hk04.trojanyyds.xyz:443?security=tls&type=tcp#@Xen2ray%F0%9F%92%99%20Tokyo%20JP
-ss://YWVzLTI1Ni1jZmI6MjE3MGY4@45.55.2.232:14293#@Xen2ray%F0%9F%92%99%20San%20Francisco%20US
