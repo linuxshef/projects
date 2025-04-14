@@ -10,3 +10,5 @@ warp://162.159.192.166:1070/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=war
 warp://162.159.192.139:934/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://162.159.192.139:934/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#Anon-WoW-IPv4🇩🇪-2
 
 warp://162.159.192.79:3476?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#Cloud-#1&&detour=warp://162.159.195.203:8319?ifp=10-20&ifps=20-60&ifpd=5-10#Cloud-#2
+
+1
