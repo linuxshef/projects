@@ -4,4 +4,4 @@
 //support-url: https://boosty.to/linuxshef
 //profile-web-page-url: https://boosty.to/linuxshef
 
-warp://auto/?ifp=10-20&ifps=10-20&ifpd=1-2&ifpm=m4#WarpInWarp ⭐️&&detour=warp://auto#Warp 🇮🇷
+

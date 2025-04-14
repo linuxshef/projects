@@ -1,7 +1,7 @@
-//profile-title: base64:R29vZFdBUlDirZA=
+//profile-title: base64:V2FycPCfh7fwn4e60KDQvtGB0YHQuNGP
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://boosty.to/linuxshef
 //profile-web-page-url: https://boosty.to/linuxshef
 
-warp://162.159.192.79:3476?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4&&detour=warp://162.159.195.203:8319?ifp=10-20&ifps=20-60&ifpd=5-10#
+

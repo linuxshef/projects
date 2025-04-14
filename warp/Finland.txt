@@ -4,4 +4,6 @@
 //support-url: https://boosty.to/linuxshef
 //profile-web-page-url: https://boosty.to/linuxshef
 
-warp://auto/?ifp=10-20&ifps=10-20&ifpd=1-2&ifpm=m4&&detour=warp://auto#Финляндия🇫🇮
+warp://162.159.192.79:3476?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4&&detour=warp://162.159.195.203:8319?ifp=10-20&ifps=20-60&ifpd=5-10#Финляндия🇫🇮1
+
+warp://auto/?ifp=10-20&ifps=10-20&ifpd=1-2&ifpm=m4&&detour=warp://auto#Финляндия🇫🇮2
