@@ -5,3 +5,4 @@
 //profile-web-page-url: https://boosty.to/linuxshef
 
 
+warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#Warp2 🇮🇷&&detour=warp://p2@188.114.97.170:894#WarpInWarp 🇩🇪
