@@ -1,0 +1,10 @@
+#profile-title: base64:8J+GkyBCYXJyeS1mYXIgfCBXYXJwIPCfjJA=
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/barry-far/V2ray-Configs
+#profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+
+warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#Warp2 🇮🇷&&detour=warp://p2@188.114.97.170:894#WarpInWarp 🇩🇪
+warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://p2@188.114.97.170:894#warp in warp
+warp://p1@auto?ifpm=m4#LocalIP&&detour=warp://p2@auto#WarpInWarp✅
+warp://188.114.98.177:4233?ifp=10-20&ifps=20-60&ifpd=5-10&ifpm=m4#Warp-IR&&detour=warp://188.114.99.135:1180?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IN-Warp
