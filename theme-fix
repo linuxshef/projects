@@ -1,0 +1,10 @@
+#!/bin/bash
+rm -Rf ~/.themes/WhiteSur-Dark
+cd ~/ ; git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git
+cd WhiteSur-gtk-theme ; ./install.sh
+cd ~/ ; rm -Rf WhiteSur-gtk-theme
+echo '
+           Done - Готово
+
+
+'
