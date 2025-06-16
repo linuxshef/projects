@@ -1,0 +1,9 @@
+//profile-title: base64:V2FycPCfh6nwn4eq0JPQtdGA0LzQsNC90LjRjw==
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//support-url: https://boosty.to/linuxshef
+//profile-web-page-url: https://boosty.to/linuxshef
+
+warp://188.114.98.0:878/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://188.114.98.0:878/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#Германия🇩🇪1
+
+warp://188.114.99.88:8854/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4&&detour=warp://188.114.99.88:8854/?ifp=50-100&ifps=50-100&ifpd=3-6&ifpm=m4#Германия🇩🇪2
